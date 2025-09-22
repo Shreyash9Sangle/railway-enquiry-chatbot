@@ -1,0 +1,34 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+            "responses": ["Hello! How can I assist you today?", "Hi there! What can I do for you?", "Hey! Need any help?"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Take care"],
+            "responses": ["Goodbye! Have a great day!", "See you later!", "Take care!"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "Much appreciated"],
+            "responses": ["You're welcome!", "Happy to help!", "Anytime!"]
+        },
+        {
+            "tag": "check_train_schedule",
+            "patterns": [
+                "Find trains from * to *",
+                "Show available trains between * and * on *",
+                "Are there trains from * to * on *?",
+                "What trains are running from * to * on *?",
+                "Can you check train schedules from * to * on *?"
+            ],
+            "responses": [
+                "Sure! Let me check the available trains for you.",
+                "Here are the train options for your requested route:",
+                "Checking train availability for your route..."
+            ]
+        }
+    ]
+}

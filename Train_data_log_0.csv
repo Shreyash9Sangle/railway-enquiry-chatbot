@@ -1,0 +1,98 @@
+Train Name,Departure Station,Source,Destination Station,Destination,Departure Time
+Tejas Express,CSMT,Mumbai,Karmali,Goa,5:50 AM
+Konkan Kanya Express,CSMT,Mumbai,Madgaon,Goa,11:05 PM
+Mandovi Express,CSMT,Mumbai,Madgaon,Goa,7:10 AM
+Mumbai Central - New Delhi Rajdhani Express,Mumbai Central,Mumbai,New Delhi,Delhi,5:00 PM
+Paschim Express Slip,Mumbai Central,Mumbai,New Delhi,Delhi,11:25 AM
+Mumbai Central - New Delhi Duronto Express,Mumbai Central,Mumbai,New Delhi,Delhi,11:10 PM
+New Delhi - Mumbai Central Rajdhani Express,New Delhi,Delhi,Mumbai Central,Mumbai,4:30 PM
+Paschim Express Slip,New Delhi,Delhi,Mumbai Central,Mumbai,11:05 AM
+New Delhi - Mumbai Central Duronto Express,New Delhi,Delhi,Mumbai Central,Mumbai,11:25 PM
+Gitanjali Express,CSMT,Mumbai,Howrah Junction,Kolkata,6:00 AM
+Howrah Mail,CSMT,Mumbai,Howrah Junction,Kolkata,9:10 PM
+Gitanjali Express,Howrah Junction,Kolkata,CSMT,Mumbai,1:40 PM
+Howrah Mail,Howrah Junction,Kolkata,CSMT,Mumbai,7:30 PM
+Mumbai CSMT - MGR Chennai Central SF Express,Mumbai CSMT,Mumbai,MGR Chennai Central,Chennai,12:45:00
+Mumbai LTT - MGR Chennai Central SF Express,Lokmanya Tilak T,Mumbai,MGR Chennai Central,Chennai,18:55:00
+MGR Chennai Central - Mumbai LTT SF Express,MGR Chennai Central,Chennai,Lokmanya Tilak T,Mumbai,06:45:00
+MGR Chennai Central - Mumbai CSMT SF Express,MGR Chennai Central,Chennai,Mumbai CSMT,Mumbai,13:15:00
+Devagiri Express,Mumbai CSMT,Mumbai,Secunderabad Jn,Secunderabad,21:05:00
+SC Duronto,Lokmanya Tilak T,Mumbai,Secunderabad Jn,Secunderabad,23:05:00
+Devagiri Express,Secunderabad Jn,Secunderabad,Mumbai CSMT,Mumbai,13:10:00
+Konark Express,Secunderabad Jn,Secunderabad,Mumbai CSMT,Mumbai,11:00:00
+Udyan Express,CSMT,Mumbai,KSR Bengaluru,Bengaluru,8:10 AM
+Chalukya Express,Dadar Central,Mumbai,KSR Bengaluru,Bengaluru,9:30 PM
+Udyan Express,KSR Bengaluru,Bengaluru,CSMT,Mumbai,8:40 PM
+Chalukya Express,KSR Bengaluru,Bengaluru,Dadar Central,Mumbai,3:20 PM
+Gujarat Mail,Mumbai Central,Mumbai,Ahmedabad Junction,Ahmedabad,10:00 PM
+Karnavati Express,Mumbai Central,Mumbai,Ahmedabad Junction,Ahmedabad,2:05 PM
+Gujarat Mail,Ahmedabad Junction,Ahmedabad,Mumbai Central,Mumbai,7:00 PM
+Karnavati Express,Ahmedabad Junction,Ahmedabad,Mumbai Central,Mumbai,6:30 AM
+Kushinagar Express,CSMT,Mumbai,Bhopal Junction,Bhopal,12:35 AM
+Punjab Mail,CSMT,Mumbai,Bhopal Junction,Bhopal,7:35 PM
+CSMT Rajdhani,Bhopal Junction,Bhopal,CSMT,Mumbai,12:40 AM
+Punjab Mail,Bhopal Junction,Bhopal,CSMT,Mumbai,4:40 PM
+VSG Patna Express,Panvel,Mumbai,Patna Junction,Patna,6:25 AM
+LTT Patna Express,Lokmanya Tilak T,Mumbai,Patna Junction,Patna,2:45 PM
+Patliputra Express,Patna Junction,Patna,Lokmanya Tilak T,Mumbai,11:05 AM
+Dibrugarh LTT Express,Patna Junction,Patna,Lokmanya Tilak T,Mumbai,1:35 PM
+Hisar Duronto Express,Mumbai Central,Mumbai,Jaipur Junction,Jaipur,11:40 AM
+Mumbai Central - Jaipur SF Express,Mumbai Central,Mumbai,Jaipur Junction,Jaipur,7:35 AM
+Aravali Express,Jaipur Junction,Jaipur,Mumbai Central,Mumbai,8:40 AM
+Jaipur Bandra Terminus Express,Jaipur Junction,Jaipur,Bandra Terminus,Mumbai,8:25 PM
+Kushinagar Express,Chhatrapati Shivaji Maharaj Terminus,Mumbai,Lucknow Junction,Lucknow,10:45 PM
+Pushpak Express,Lokmanya Tilak Terminus,Mumbai,Lucknow Junction,Lucknow,8:25 AM
+Kushinagar Express,Lucknow Junction,Lucknow,Chhatrapati Shivaji Maharaj Terminus,Mumbai,11:10 PM
+Pushpak Express,Lucknow Junction,Lucknow,Lokmanya Tilak Terminus,Mumbai,9:30 PM
+LTT AGTL AC EXP,Lokmanya Tilak Terminus,Mumbai,Guwahati,Guwahati,7:50 AM
+KARMABHOOMI EXP,Lokmanya Tilak Terminus,Mumbai,Guwahati,Guwahati,11:30 AM
+GHY LTT EXPRESS,Guwahati,Guwahati,Lokmanya Tilak Terminus,Mumbai,3:00 PM
+AGTL LTT AC EXP,Kamakhya Junction,Guwahati,Lokmanya Tilak Terminus,Mumbai,9:00 PM
+LTT BBS EXPRESS,Lokmanya Tilak Terminus,Mumbai,Bhubaneswar,Bhubaneswar,12:15 AM
+LTT PURI EXP,Lokmanya Tilak Terminus,Mumbai,Bhubaneswar,Bhubaneswar,8:35 PM
+PURI LTT S F,Bhubaneswar,Bhubaneswar,Lokmanya Tilak Terminus,Mumbai,6:45 AM
+PURI LTT S F,Bhubaneswar,Bhubaneswar,Lokmanya Tilak Terminus,Mumbai,10:48 PM
+LTT VSKP Express,Lokmanya Tilak Terminus,Mumbai,Vijayawada Junction,Vijayawada,6:55 AM
+Konark Express,Chhatrapati Shivaji Maharaj Terminus,Mumbai,Vijayawada Junction,Vijayawada,2:00 PM
+Konark Express,Vijayawada Junction,Vijayawada,Chhatrapati Shivaji Maharaj Terminus,Mumbai,4:55 AM
+VSKP LTT Express,Vijayawada Junction,Vijayawada,Lokmanya Tilak Terminus,Mumbai,6:45 AM
+TVC Rajdhani,Panvel,Mumbai,Thiruvananthapuram Central,Thiruvananthapuram,3:15 AM
+NZM TVC Express,Panvel,Mumbai,Thiruvananthapuram Central,Thiruvananthapuram,9:45 PM
+TVC NZM SF Express,Thiruvananthapuram Central,Thiruvananthapuram,Panvel,Mumbai,12:50 AM
+Rajdhani Express,Thiruvananthapuram Central,Thiruvananthapuram,Panvel,Mumbai,7:15 PM
+Paschim Express,Mumbai Central,Mumbai,Amritsar Junction,Amritsar,12:00 PM
+CSMT ASR Express,Chhatrapati Shivaji Maharaj Terminus,Mumbai,Amritsar Junction,Amritsar,11:30 PM
+Golden Temple Mail,Amritsar Junction,Amritsar,Mumbai Central,Mumbai,6:55 PM
+Paschim SF Express,Amritsar Junction,Amritsar,Mumbai Central,Mumbai,7:20 AM
+Paschim Express,Mumbai Central,Mumbai,Chandigarh Junction,Chandigarh,12:00 PM
+Goa Sampark Kranti Express,Bandra Terminus,Mumbai,Chandigarh Junction,Chandigarh,7:55 PM
+Paschim SF Express,Chandigarh Junction,Chandigarh,Mumbai Central,Mumbai,12:20 PM
+Goa Sampark Kranti Express,Chandigarh Junction,Chandigarh,Bandra Terminus,Mumbai,2:17 AM
+Swaraj Express,Bandra Terminus,Mumbai,Jammu Tawi,Jammu,7:55 AM
+JAT Vivek Express,Bandra Terminus,Mumbai,Jammu Tawi,Jammu,12:00 PM
+JAT BDTS Express,Jammu Tawi,Jammu,Bandra Terminus,Mumbai,9:30 AM
+Swaraj Express,Jammu Tawi,Jammu,Bandra Terminus,Mumbai,11:10 AM
+Hatia Express,Lokmanya Tilak Terminus,Mumbai,Hatia,Ranchi,12:15 AM
+LTT Ranchi Express,Lokmanya Tilak Terminus,Mumbai,Ranchi Junction,Ranchi,3:50 PM
+Hatia Express,Hatia,Ranchi,Lokmanya Tilak Terminus,Mumbai,9:40 AM
+RNC LTT Express,Ranchi Junction,Ranchi,Lokmanya Tilak Terminus,Mumbai,9:05 PM
+LTT AGTL AC Express,Lokmanya Tilak Terminus,Mumbai,Agartala Railway Station,Agartala,7:50 AM
+CSMT AGTL Special,Thane,Mumbai,Agartala Railway Station,Agartala,4:33 PM
+AGTL LTT AC Express,Agartala Railway Station,Agartala,Lokmanya Tilak Terminus,Mumbai,7:20 AM
+AGTL LTT Special,Agartala Railway Station,Agartala,Lokmanya Tilak Terminus,Mumbai,5:00 AM
+BDTS HW EXP,Bandra Terminus,Mumbai,Haridwar Junction,Dehradun,12:05 AM
+KCVL YNRK SF EX,Lokmanya Tilak Terminus,Mumbai,Haridwar Junction,Dehradun,13:40
+YNRK KCVL EXP,Haridwar Junction,Dehradun,Lokmanya Tilak Terminus,Mumbai,05:50
+HW BDTS EXP,Haridwar Junction,Dehradun,Bandra Terminus,Mumbai,10:00
+HATIA EXPRESS,Lokmanya Tilak Terminus,Mumbai,Raipur Junction,Raipur,00:15
+LTT SHALIMAR EXP,Lokmanya Tilak Terminus,Mumbai,Raipur Junction,Raipur,22:00
+GITANJALI EXP,Raipur Junction,Raipur,Lokmanya Tilak Terminus,Mumbai,02:25
+HTE LTT EXP,Raipur Junction,Raipur,Lokmanya Tilak Terminus,Mumbai,19:00
+PUDUCHERRY EXP,Dadar Central,Mumbai,Puducherry Railway Station,Puducherry,21:30
+LTT KARAIKAL EXP,Lokmanya Tilak Terminus,Mumbai,Villupuram Junction,Puducherry,13:15
+CHALUKYA EXP,Villupuram Junction,Puducherry,Dadar Central,Mumbai,20:45
+NCJ CSMT EXP,Villupuram Junction,Puducherry,Chhatrapati Shivaji Maharaj Terminus,Mumbai,16:15
+BDTS GCT EXP,Bandra Terminus,Mumbai,Kota Junction,Kota,00:02
+NDLS DURONTO,Chhatrapati Shivaji Maharaj Terminus,Mumbai,Kota Junction,Kota,23:15
+JP BDTS EXP,Kota Junction,Kota,Bandra Terminus,Mumbai,00:10
+PASCHIM EXPRESS,Kota Junction,Kota,Mumbai Central,Mumbai,23:40
